@@ -91,7 +91,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/davidjose47">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21duke7tqn55kmiqx3wpts3ba)
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21duke7tqn55kmiqx3wpts3ba" alt="Spotify recently played"  />
   </a>
 </div>
 
