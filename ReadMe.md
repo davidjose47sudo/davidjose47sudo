@@ -83,6 +83,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=davidjose47sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=davidjose47sudo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjose47sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/javascript.gif"  />
@@ -96,3 +101,5 @@
 </div>
 
 ###
+
+[![](https://visitcount.itsvg.in/api?id=davidjose47sudo&icon=1&color=0)](https://visitcount.itsvg.in)
