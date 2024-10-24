@@ -1,28 +1,6 @@
 # 💫 About Me:
 <h5 align="left">¡Hola! 👋 Mi nombre es David Silva y soy un desarrollador Fullstack de Colombia. Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como JavaScript, next.js, nest.js, y bases de datos como PostgreSQL. Disfruto trabajando en todos los aspectos del desarrollo, desde el front-end hasta el back-end, y me apasiona crear soluciones eficientes y escalables. Además, me mantengo siempre al día con las últimas tendencias y buenas prácticas en el desarrollo web para ofrecer productos de alta calidad.</h5>
 
-###
-
-<div align="left">
-  <a href="davidsilvav_11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="davidjose47" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="davidsilvasquez@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/david-silva-vasquez-256401246/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="+573006072441" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -83,16 +61,64 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
 </div>
 
+
+<div align="left">
+  <a href="davidsilvav_11" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="davidjose47" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="davidsilvasquez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/david-silva-vasquez-256401246/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="+573006072441" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+
+<h6 align="center">
+  <img src="https://moe-counter.glitch.me/get/@davidjose47sudo?theme=rule34" />
+</h6>
+
+
+<!-- Trophy -->
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=davidjose47sudo&no-bg=true&no-frame=true&row=2&column=3"/>
+</div>
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidjose47sudo&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidjose47sudo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidjose47sudo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidjose47sudo&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidjose47sudo&theme=transparent" height="180em" alt="Commitments"/>
+</div>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
+
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=davidjose47sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<div align="center">
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidjose47sudo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=davidjose47sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjose47sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###
+</div>
+
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/javascript.gif"  />
 
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/davidjose47">
@@ -100,6 +126,6 @@
   </a>
 </div>
 
-###
+
 
 [![](https://visitcount.itsvg.in/api?id=davidjose47sudo&icon=1&color=0)](https://visitcount.itsvg.in)
